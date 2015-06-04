@@ -19,7 +19,14 @@
  * License along with this file. If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "HwInterface.h"
+// System headers :
+
+// Camera SDK headers :
+
+// LImA headers :
+#include "lima/HwInterface.h"
+
+// Andor3 plugin headers :
 #include "Andor3Camera.h"
 
 namespace lima
